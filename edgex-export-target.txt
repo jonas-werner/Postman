@@ -1,0 +1,16 @@
+{
+   "name":"RaspPi_MQTT_01",
+   "addressable":{
+      "name":"Temp_and_Humidity_sensor_cluster_01",
+      "protocol":"TCP",
+      "address":"<server>",
+      "port":<port>,
+      "publisher":"EdgeXExportPublisher",
+      "user":"<user>",
+      "password":"<password>",
+      "topic":"<topic / instance name>"
+   },
+   "format":"XML",
+   "enable":true,
+   "destination":"MQTT_TOPIC"
+}
