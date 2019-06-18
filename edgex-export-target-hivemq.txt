@@ -1,0 +1,16 @@
+{
+   "name":"RaspPi_MQTT_HiveMQ",
+   "addressable":{
+      "name":"Temp_and_Humidity_sensor_cluster_01",
+      "protocol":"TCP",
+      "address":"broker.hivemq.com",
+      "port":1883,
+      "publisher":"EdgeXExportPublisher",
+      "user":"",
+      "password":"",
+      "topic":"<your_topic_of_choice"
+   },
+   "format":"XML",
+   "enable":true,
+   "destination":"MQTT_TOPIC"
+}
