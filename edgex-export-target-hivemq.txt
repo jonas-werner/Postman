@@ -8,7 +8,7 @@
       "publisher":"EdgeXExportPublisher",
       "user":"",
       "password":"",
-      "topic":"<your_topic_of_choice"
+      "topic":"<your_topic_of_choice>"
    },
    "format":"XML",
    "enable":true,
