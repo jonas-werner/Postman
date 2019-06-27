@@ -10,7 +10,7 @@
       "password":"",
       "topic":"<your_topic_of_choice>"
    },
-   "format":"XML",
+   "format":"JSON",
    "enable":true,
    "destination":"MQTT_TOPIC"
 }
