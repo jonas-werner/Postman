@@ -10,7 +10,7 @@
       "password":"<password>",
       "topic":"<topic / instance name>"
    },
-   "format":"XML",
+   "format":"JSON",
    "enable":true,
    "destination":"MQTT_TOPIC"
 }
